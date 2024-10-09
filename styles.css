@@ -33,3 +33,8 @@ a{
 .Heading{
     text-decoration: underline;
 }
+
+.bold-text{
+    font-weight: bold;
+}
+
