@@ -21,3 +21,11 @@ p{
 .main-content{
     color: yellow;
 }
+
+p{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
