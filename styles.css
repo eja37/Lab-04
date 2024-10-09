@@ -41,3 +41,7 @@ a{
 .intro{
     font-weight: 300;
 }
+
+*{
+    font-family: Arial, sans-serif;
+}
