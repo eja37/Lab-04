@@ -29,3 +29,7 @@ p{
 a{
     text-decoration: none;
 }
+
+.Heading{
+    text-decoration: underline;
+}
